@@ -14,4 +14,8 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	
+	$('#Triceratops').tap(function (e) {
+		$.mobile.navigate( "#Trice" );
+	});
 });//ready
